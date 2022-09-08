@@ -1,0 +1,30 @@
+{
+  "name": "mmm-oelpreise",
+  "version": "1.0.0",
+  "description": "Chart module for [MagicMirror²](https://github.com/MichMich/MagicMirror). The module displays oil prices for the current year based on [Chart.js](http://www.chartjs.org/) and the API of [heizoel24.de](https://www.heizoel24.de/charts/heizoel).",
+  "author": "Markus Eckert",
+  "license": "MIT",
+  "dependencies": {
+    "request": "latest",
+    "chart.js": "^3.7.1",
+    "magicmirror-rebuild": "^1.0.5"
+  },
+  "main": "MMM-Oelpreise.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eckonator/MMM-Oelpreise.git"
+  },
+  "keywords": [
+    "MagicMirrir",
+    "Oil",
+    "Chart"
+  ],
+  "bugs": {
+    "url": "https://github.com/eckonator/MMM-Oelpreise/issues"
+  },
+  "homepage": "https://github.com/eckonator/MMM-Oelpreise#readme"
+}
