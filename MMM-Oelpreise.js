@@ -115,7 +115,7 @@ Module.register("MMM-Oelpreise", {
             data: {
                 labels: self.days,
                 datasets: [{
-                    label: 'Euro / Li.',
+                    label: 'Euro / 100l',
                     data: self.euros,
                     fill: true,
                     backgroundColor: 'rgb(255, 255, 255, .3)',
